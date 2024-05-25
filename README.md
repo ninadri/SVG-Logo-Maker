@@ -72,6 +72,10 @@ Once answered it should create a logo.svg ƒile with the answers the user inpute
 
 ![SVG File](assets/images/SVG-File.png)
 
+WALKTHROUGH VIDEO:
+
+![SVG Walkthrough](assets/video/SVG-Walkthough.mov)
+
 ## Credits
 
 I used the Xpert Learning Assistant ƒor help with my tests.
