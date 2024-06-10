@@ -77,11 +77,11 @@ As a freelance web developer, you can use this command-line application to gener
 
 Prompts being asked.
 
-![Prompts](assets/images/prompt.png)
+![Prompts](./Assets/Images/prompt.png)
 
 Upon providing input, the application will dynamically generate a logo.svg file incorporating the user's responses. When accessed through a browser, the SVG image will render according to the specified parameters. Example below:
 
-![SVG File](assets/images/SVG-File.png)
+![SVG File](./Assets/Images/SVG-File.png))
 
 WALKTHROUGH VIDEO:
 
